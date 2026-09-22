@@ -1,4 +1,4 @@
-
+# This one isn't mine. It's Michael Niehaus' script, but I added a bit to prompt the user for what the machine should be renamed to, rather than it being logically determined.
 <#PSScriptInfo
 
 .VERSION 1.3
